@@ -2,3 +2,5 @@ Blue
 Loki
 Harry
 Tom
+Mocha 
+Beast
